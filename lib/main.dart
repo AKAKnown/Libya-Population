@@ -3,8 +3,5 @@ import 'package:flutter/material.dart';
 import 'appbase.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(MaterialApp(home: MyApp()));
 }
-
-
-
