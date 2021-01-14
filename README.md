@@ -1,7 +1,9 @@
 # flutter_read
 
 A new Flutter application.
-
+## Screenshots
+![ScreenShot](https://raw.github.com/AKAKnown/Libya-Population/master/assets/Screenshot_1610659477.png)
+![ScreenShot](https://raw.github.com/AKAKnown/Libya-Population/master/assets/Screenshot_1610659434.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
